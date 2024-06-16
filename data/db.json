@@ -1,0 +1,24 @@
+[
+    {
+        "short_description": "a short fat guy named Bob.",
+        "full_description": [
+            {
+                "name": "bob",
+                "appearance": "a short fat man",
+                "roll": "Stick out your stomach",
+                "key": "Loves to eat and is jolly"
+            }
+        ]
+    },
+    {
+        "short_description": "A talking horse named ED",
+        "full_description": [
+            {
+                "name": "Ed",
+                "appearance": "of a horse",
+                "roll": "Nay when talking",
+                "key": "ed is a talking horse"
+            }
+        ]
+    }
+]

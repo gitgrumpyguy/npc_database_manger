@@ -1,0 +1,26 @@
+[
+    {
+        "name": "bob",
+        "appearance": "a short fat man",
+        "roll": "Stick out your stomach",
+        "key": "Loves to eat and is jolly"
+    },
+    {
+        "name": " Billy",
+        "appearance": "A tall guy with blonde hair.",
+        "roll": "act like a rock star.",
+        "key": "Billy is an Idol."
+    },
+    {
+        "name": "Tiny tim",
+        "appearance": "A very thin tall guy with long hair. He has a ukalalie.",
+        "roll": "sing in a high Vioce \"I tip toe threw the tulips\"",
+        "key": "He is a bard that plays the ukalalie."
+    },
+    {
+        "name": "ED",
+        "appearance": "of a horse of course",
+        "roll": "Ney like a horse when you talk.",
+        "key": "Ed is a talking horse"
+    }
+]
